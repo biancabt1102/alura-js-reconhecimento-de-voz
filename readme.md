@@ -32,6 +32,11 @@ Ele cria números aleatórios
 ```
     Math.random()
 ```
+Utilizado para alterar o background color
+
+```
+    document.body.style.backgroundColor = "black";
+```
 
 ## Foi utilizado a API Web Speech
 
